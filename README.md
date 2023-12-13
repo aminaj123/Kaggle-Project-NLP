@@ -1,5 +1,5 @@
 # Kaggle-Project-NLP
-![](UTA-DataScience-Logo.png)
+![UTA-DataScience-Logo (1)](https://github.com/aminaj123/Kaggle-Project-NLP/assets/123412421/08565d2a-5657-4c9f-964b-85d6998adaca)
 
 # NLP disaster tweets kaggle competetion
 
