@@ -1,9 +1,9 @@
 # Kaggle-Project-NLP
 ![UTA-DataScience-Logo (1)](https://github.com/aminaj123/Kaggle-Project-NLP/assets/123412421/08565d2a-5657-4c9f-964b-85d6998adaca)
 
-# NLP disaster tweets kaggle competetion
+# NLP Disaster Tweets Kaggle Competetion
 
-* **One Sentence Summary** Ex: This repository holds an attempt to apply NLP to disaster tweets 
+* **One Sentence Summary**  This repository holds an attempt to apply NLP to disaster tweets 
 ## Overview
 
 
@@ -13,7 +13,7 @@
 
 ## Summary of Workdone
 
-Include only the sections that are relevant an appropriate.
+
 
 ### Data
 
@@ -65,8 +65,7 @@ Here I can include unigrams, trigrams models I can also include most common word
 
 ### Future Work
 
-* What would be the next thing that you would try.
-* What are some other studies that can be done starting from here.
+* I would like to use a similar model to analyze specfic word/sentence that people tweet from a political party. For example can presense of a word/sentence detect whether the tweet comes from a democrat or republican? 
 
 ## How to reproduce results
 
