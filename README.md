@@ -40,6 +40,7 @@
 
 <img width="1006" alt="Screen Shot 2023-12-12 at 10 43 49 PM" src="https://github.com/aminaj123/Kaggle-Project-NLP/assets/123412421/d170dd1e-e752-4e99-8ed6-01cdd2562187">
 
+<img width="1021" alt="Screen Shot 2023-12-12 at 10 44 20 PM" src="https://github.com/aminaj123/Kaggle-Project-NLP/assets/123412421/9eb5e5e3-a9f3-4451-a0b8-3c1887554ab2">
 
 ### Problem Formulation
 
